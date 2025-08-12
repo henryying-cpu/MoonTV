@@ -81,6 +81,10 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
     },
+    "qiqidys": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod",
+      "name": "琪琪電影源"
+    },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
